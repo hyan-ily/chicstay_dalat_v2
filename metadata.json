@@ -1,0 +1,6 @@
+{
+  "name": "ChicStay Đà Lạt - Quản lý Homestay",
+  "description": "Hệ thống Quản lý Homestay ChicStay Đà Lạt chuẩn MIS: Room Rack Grid, Đặt phòng & VietQR cọc 30%, Check-in/Check-out quyết toán tự động, CRM khách hàng và Trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
